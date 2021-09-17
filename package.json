@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "cargo-cp-artifact": "^0.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
